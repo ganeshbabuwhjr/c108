@@ -1,0 +1,27 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-color: darkorange;
+    text-align: center;
+}
+.header_div{
+    background: aliceblue;
+    color: darkred;
+}
+.header_div p{
+ font-family: 'Times New Roman', Times, serif;
+ color: darkslategray;
+ letter-spacing: 2px;
+ font-size: 12px;
+ font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    color: deeppink;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: gold;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(105, 115, 254);
+}
